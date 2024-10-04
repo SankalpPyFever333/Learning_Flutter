@@ -45,6 +45,8 @@ class _HomePageLayoutState extends State<HomePageLayout> {
                       child: Text("reactJS",
                           style: TextStyle(
                               fontSize: 20,
+                              fontFamily: 'MyFont',
+                              fontWeight: FontWeight.w700,
                               color: Color.fromARGB(255, 0, 0, 0)))),
                 ),
                 Container(
