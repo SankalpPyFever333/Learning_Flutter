@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:hello_flutter_1/ButtonInDart/flat_btn.dart';
 import 'package:hello_flutter_1/signup_page.dart';
 import "./sec_row.dart";
 //implementing container properties:
@@ -94,7 +95,12 @@ class _HomePageLayoutState extends State<HomePageLayout> {
 
             // const SecondRow()
 
-            const SignupPage()
+            // const SignupPage(),
+
+            // const FlatButtonFlutter()
+
+            
+
 
           ],
         ));
